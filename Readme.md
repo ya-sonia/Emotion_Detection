@@ -46,8 +46,8 @@ project_root/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repo_url>
-cd <repo_name>
+git clone https://github.com/ya-sonia/Emotion_Detection.git
+cd Facial_Recognition_Project
 ```
 
 ### 2. Create & Activate Conda Environment
