@@ -1,0 +1,30 @@
+# Core Python and data handling
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+scikit-learn
+os
+random
+
+
+# Deep learning (Stage 1 - Facial Expression Recognition)
+tensorflow
+keras
+
+
+# Transformer & NLP (Stage 2)
+torch
+transformers
+accelerate
+sentence-transformers
+langchain
+langchain_community
+faiss-gpu
+datasets
+
+
+# Utilities
+huggingface-hub
+

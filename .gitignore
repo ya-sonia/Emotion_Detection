@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+test
+train
+outputs
+outputs_stage2
