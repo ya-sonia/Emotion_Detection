@@ -74,8 +74,9 @@ python Stage2.py
 # Dataset
 
 Dataset used: [FER-2013 Kaggle Dataset](https://www.kaggle.com/datasets/msambare/fer2013)
-Training images are organized by emotion classes in train/.
-Test images are organized by emotion classes in test/.
+
+- Training images are organized by emotion classes in train/.
+- Test images are organized by emotion classes in test/.
 
 
 
